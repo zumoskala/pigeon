@@ -1,0 +1,12 @@
+LICENCE
+README.md
+setup.py
+example_pkg_zuzannamoskala.egg-info/PKG-INFO
+example_pkg_zuzannamoskala.egg-info/SOURCES.txt
+example_pkg_zuzannamoskala.egg-info/dependency_links.txt
+example_pkg_zuzannamoskala.egg-info/requires.txt
+example_pkg_zuzannamoskala.egg-info/top_level.txt
+pigeon/__init__.py
+pigeon/data_load.py
+pigeon/data_processing.py
+pigeon/data_stats.py
